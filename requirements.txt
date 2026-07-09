@@ -1,0 +1,6 @@
+sounddevice
+soundfile
+pygame
+numpy
+imageio
+matplotlib
